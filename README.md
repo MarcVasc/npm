@@ -1,3 +1,14 @@
+# Sistema de Prospecção de Vendas
+
+Este é um sistema completo para gerenciamento de prospecção de vendas, com sincronização em tempo real entre dispositivos e exportação de relatórios formatados.
+
+## Requisitos
+
+- Node.js 14 ou superior
+- NPM 6 ou superior
+
+## Instalação
+
 1. Clone o repositório ou extraia o arquivo zip
 2. Instale as dependências:
 
@@ -48,3 +59,6 @@ O sistema pode ser configurado através de variáveis de ambiente ou editando o 
 - Exportação para Excel com formatação avançada
 
 ## Licença
+
+Todos os direitos reservados.
+****
